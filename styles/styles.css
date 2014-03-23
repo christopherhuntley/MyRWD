@@ -1,0 +1,44 @@
+/**
+ * ====================================================================
+ *  styles.css -- Global styles for the MyRWD website
+ * ====================================================================
+ *
+ * Created March 23, 2014 
+ * 
+ * Authored by Chris Huntley
+ * 
+ */
+
+/* ----- Basic Styling ----- */
+
+body {
+  background-color: lightblue;
+}
+
+#page-wrapper {
+  background-color: white;
+  width: 768px;
+  margin: 0 auto;
+}
+
+#content {
+  background-color: #f7f2da;
+  padding: 0 1em;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+nav {
+  background: gray;
+  padding:0;
+  margin:0;
+}
+
+nav ul {
+  padding: 3px 10px;
+  list-style-type: none;
+}
+
+footer {
+  clear:both;
+}
